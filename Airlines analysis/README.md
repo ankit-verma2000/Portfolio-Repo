@@ -113,6 +113,10 @@ Identified aircraft with:
 * More than 100 seats
 * Highest seating capacity
 * Occupancy performance
+  
+> The basic analysis of data provides insights into the number of planes with more than 100 seats, how the number of tickets booked, and the total amount earned changed over time, as well as the average fare for each aircraft with different conditions. These findings will be helpful in developing strategies to optimize occupancy rates and pricing for each aircraft.
+> Table 1 shows the aircraft with more than 100 seats and the actual count of seats.
+
 
 | Aircraft Code | Number of Seats |
 | ------------- | --------------- |
@@ -133,6 +137,16 @@ Analyzed:
 * Revenue growth trends
 * Peak booking periods
 
+In order to gain a deeper understanding of the trend in ticket bookings and revenue earned through those bookings, we utilized a line chart visualization. Upon analysis of the chart, we observe that the number of tickets booked exhibits a gradual increase from June 22nd to July 7th, followed by a relatively stable pattern from July 8th until August, with a noticeable peak in ticket bookings where the highest number of tickets was booked on a single day. It is important to note that the revenue earned by the company from these bookings is closely tied to the number of tickets booked. Therefore, we can see a similar trend in the total revenue earned by the company throughout the analyzed time period. These findings suggest that further exploration of the factors contributing to the peak in ticket bookings may be beneficial for increasing overall revenue and optimizing operational strategies.
+
+> Total tickets booked:
+<img width="810" height="279" alt="image" src="https://github.com/user-attachments/assets/8dc5f5b9-0970-4db9-8585-49b0489f2020" />
+
+
+> Revenue trend
+<img width="811" height="296" alt="image" src="https://github.com/user-attachments/assets/1f2e9b97-55d3-462f-ab0c-07363e516c9e" />
+
+
 #### Key Observation:
 
 * Ticket bookings gradually increased between **June and August**
@@ -147,6 +161,11 @@ Compared average ticket prices across:
 * Business class
 * Economy class
 * Comfort class
+
+> We were able to generate a bar graph to graphically compare the data after completing computations for the average cost associated with different fare conditions for each aircraft. Figure 3 displays data for three types of fares: business, economy, and comfort. It's worth mentioning that the comfort class is available on only one aircraft, the 773. Conversely, the CN1 and CR2 planes provide only the economy class. When comparing different pricing circumstances within each aircraft, the charges for the business class are consistently greater than those for the economy class. This trend may be observed across all planes, irrespective of fare conditions.
+
+<img width="445" height="323" alt="image" src="https://github.com/user-attachments/assets/582c7e8c-f994-4948-91ce-cc0697c42b25" />
+
 
 #### Key Findings:
 
