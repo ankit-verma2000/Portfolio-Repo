@@ -327,9 +327,4 @@ This analysis can help airlines:
 **Ankit Verma**
 *Data Analyst | Python • SQL • Business Analytics*
 
-🔗 [LinkedIn](https://www.linkedin.com/in/ankit-verma)
-🔗 [GitHub](https://github.com/ankitverma)
-
----
-
-⭐ **If you found this project useful, consider starring the repository!** ⭐
+🔗 [LinkedIn](https://www.linkedin.com/in/ankitvermads/)
