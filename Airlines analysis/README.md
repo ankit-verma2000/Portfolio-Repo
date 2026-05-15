@@ -52,9 +52,13 @@ To address these challenges, the company wants to:
 The main goals of this analysis are:
 
 ✅ Increase aircraft occupancy rates
+
 ✅ Improve revenue generation per flight
+
 ✅ Analyze booking and pricing trends
+
 ✅ Identify high and low-performing aircraft
+
 ✅ Support better pricing and operational decisions
 
 ---
